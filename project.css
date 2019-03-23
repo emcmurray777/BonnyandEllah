@@ -1,9 +1,8 @@
 html {
-    background-color: white;
     height:50%;
     width: 100%;
 }
-.cover {
+cover {
     background-image: url(https://freedesignfile.com/upload/2017/01/Light-blue-tech-background-vector-04.jpg);
     background-size: cover;
 }
@@ -25,35 +24,29 @@ html {
 h1 {
     font-family: monospace;
     font-size: 40px;
-    color:black;
     text-align: center;
 }
 h2 {
     font-family: monospace;
     font-size: 20px;
-    color:black
 }
 h3 {
     font-family: monospace;
     font-size: 35px;
-    color: black;
 }
 h4 {
     font-family: monospace;
     font-size: 25px;
-    color:black
 }
 h5 {
     column-width: auto;
     text-align: center;
     font-family: monospace;
     font-size: 20px;
-    color:black
 }
 h6 {
     font-family: monospace;
     font-size: 20px;
-    color:black;
 }
 ul {
     width: 40%;
