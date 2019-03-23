@@ -1,5 +1,5 @@
 html {
-    height:50;
+    height:100;
     width: 100;
 }
 cover {
@@ -23,33 +23,33 @@ image {
 }
 h1 {
     font-family: monospace;
-    font-size: 40px;
+    font-size: 40;
     text-align: center;
 }
 h2 {
     font-family: monospace;
-    font-size: 20px;
+    font-size: 20;
 }
 h3 {
     font-family: monospace;
-    font-size: 35px;
+    font-size: 35;
 }
 h4 {
     font-family: monospace;
-    font-size: 25px;
+    font-size: 25;
 }
 h5 {
     column-width: auto;
     text-align: center;
     font-family: monospace;
-    font-size: 20px;
+    font-size: 20;
 }
 h6 {
     font-family: monospace;
-    font-size: 20px;
+    font-size: 20;
 }
 ul {
     width: 40%;
     font-family: monospace;
-    font-size: 20px;
+    font-size: 20;
 }
