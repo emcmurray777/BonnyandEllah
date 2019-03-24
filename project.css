@@ -1,5 +1,5 @@
 html {
-    height:50%;
+    height:50;
     width: 100;
 }
 .cover {
@@ -18,7 +18,7 @@ html {
     background-image: url(bright.png);
     background-size: cover;
 }
-image {
+.image {
    text-align: center;
 }
 h1 {
