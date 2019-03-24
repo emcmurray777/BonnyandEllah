@@ -2,19 +2,19 @@ html {
     height:100;
     width: 100;
 }
-cover {
+.cover {
     background-image: url(https://freedesignfile.com/upload/2017/01/Light-blue-tech-background-vector-04.jpg);
     background-size: cover;
 }
-fingerprint {
+.fingerprint {
     background-image: url(bluetech.png);
     background-size: cover;
 }
-voice {
+.voice {
     background-image: url(greytech.png);
     background-size: cover;
 }
-face {
+.face {
     background-image: url(bright.png);
     background-size: cover;
 }
