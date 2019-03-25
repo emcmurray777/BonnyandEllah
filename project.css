@@ -9,16 +9,16 @@ html {
     background-size: cover;
 }
 .fingerprint {
-    background-image: url(blue-gear-circuit-board-and-arrows-tech-background-video-animation-hd-1920x1080_4j1mr68gx__F0009.png);
+    background-image: url(FingerprintBackground.png);
     background-size: cover;
 }
 .voice {
-    background-image: url(light-grey-gear-circuit-board-and-arrows-tech-background-video-animation-hd-1920x1080_n6fpbciyx__F0003.png);
+    background-image: url(VoiceBackground.png);
 
     background-size: cover;
 }
 .face {
-    background-image: url(bright.png);
+    background-image: url(FaceBackground.png);
 
     background-size: cover;
 }
